@@ -1,0 +1,1 @@
+{"name":"Local: 4problem","url":"/Users/mezbahuddinaqib/Desktop/cpp dsa/STL/pair/4problem.cpp","tests":[{"id":1718017704040,"input":"5\nbirch yellow\nmaple red\nbirch yellow\nmaple yellow\nmaple green\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mezbahuddinaqib/Desktop/cpp dsa/STL/pair/4problem.cpp","group":"local","local":true}
