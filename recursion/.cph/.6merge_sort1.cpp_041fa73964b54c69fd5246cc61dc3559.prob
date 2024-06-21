@@ -1,0 +1,1 @@
+{"name":"Local: 6merge_sort1","url":"/Users/mezbahuddinaqib/Akib_dsa_cpp/recursion/6merge_sort1.cpp","tests":[{"id":1719006560816,"input":"10\n2 45 1 2 6 8 10 9 2 19","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mezbahuddinaqib/Akib_dsa_cpp/recursion/6merge_sort1.cpp","group":"local","local":true}

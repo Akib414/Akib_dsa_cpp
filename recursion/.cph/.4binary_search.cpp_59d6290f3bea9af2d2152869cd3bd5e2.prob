@@ -1,0 +1,1 @@
+{"name":"Local: 4binary_search","url":"/Users/mezbahuddinaqib/Akib_dsa_cpp/recursion/4binary_search.cpp","tests":[{"id":1718978584465,"input":"5\n1 2 3 4 5\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mezbahuddinaqib/Akib_dsa_cpp/recursion/4binary_search.cpp","group":"local","local":true}
